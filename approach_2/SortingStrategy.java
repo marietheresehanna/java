@@ -1,0 +1,4 @@
+interface SortingStrategy {
+    void sort();
+}
+
